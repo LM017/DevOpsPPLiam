@@ -1,0 +1,20 @@
+api_version: 1
+created: 20240415T110743Z
+description: A scikit-learn DecisionTreeRegressor model
+file: penguin_model.joblib
+file_size: 35143
+pin_hash: 085fa60dacd3ebf7
+title: 'penguin_model: a pinned DecisionTreeRegressor object'
+type: joblib
+user:
+  user: {}
+  vetiver_meta:
+    prototype: '{"bill_length_mm":39.1,"species_Chinstrap":false,"species_Gentoo":false,"sex_male":true}'
+    python_version:
+    - 3
+    - 9
+    - 5
+    - final
+    - 0
+    required_pkgs:
+    - scikit-learn
